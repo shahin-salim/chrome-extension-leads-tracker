@@ -4,12 +4,7 @@
     "name": "leads tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "xbox.png"
-        
+        "default_icon": "xbox.png"     
     },
-    "permissions": [
-        "tabs"
-     ]
-    
-    
+    "permissions": ["tabs"]   
 }

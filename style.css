@@ -19,7 +19,6 @@ button{
     border: none;
     font-weight: bold;
     margin-top: 14px;
-
 }
 a{
     color: green;
@@ -27,5 +26,4 @@ a{
 ul {
     list-style-type: none;
     margin-left: -38px;
-
 }
