@@ -17,3 +17,11 @@ button{
     border: none;
     font-weight: bold;
 }
+a{
+    color: green;
+}
+ul {
+    list-style-type: none;
+    margin-left: -38px;
+
+}
